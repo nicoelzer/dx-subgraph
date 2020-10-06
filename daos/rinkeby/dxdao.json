@@ -1,8 +1,8 @@
 {
   "name": "dxDAO",
-  "Avatar": "0x031bf13157b60c1c6e116028e1fbf97de317b41f",
-  "DAOToken": "0xfff645d0a65303a6eb8bb0c24a6e091ac20cf45d",
-  "Reputation": "0x7a4347fad26326db0196af5e7861a91d6923aa82",
-  "Controller": "0xdc7868598a96909e6d486d12f38034a1883b02a1",
+  "Avatar": "0x6d84e691e2eccbd41e8a637fbbd8f6545b094936",
+  "DAOToken": "0xfa4b377f176ceb120220322a25ad64b0010071aa",
+  "Reputation": "0x43a59c3c6b8d325c44ddf6de66f81159fb4a56a1",
+  "Controller": "0x7a1b1265b825e276a938f4c3ee13926bc2361001",
   "arcVersion": "0.0.1-rc.19"
 }
